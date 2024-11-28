@@ -26,8 +26,10 @@ Clone the repository:
  ````
 ## Project Images
 
-<img src="image.png" alt="Project Image" width="300px">
-<img src="image1.png" alt="Project Image" width="300px">
-<img src="image2.png" alt="Project Image" width="300px">
+<p align="right">
+  <img src="image.png" alt="Project Image" width="300px">
+  <img src="image1.png" alt="Project Image" width="300px">
+  <img src="image2.png" alt="Project Image" width="300px">
+</p>
 
 `````
