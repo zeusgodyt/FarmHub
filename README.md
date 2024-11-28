@@ -20,9 +20,9 @@ A modern web browser (Chrome, Firefox, etc.)
 
 ## Run the Project File
   1. Run on Live Server Extension or any other Server
-  2. Initial or First Page is the Onboarding Page (onborading.html)
-
 ```
+ 2. Initial or First Page is the Onboarding Page (onborading.html)
+
 ```
 ## Installation
 Clone the repository:
