@@ -21,4 +21,4 @@ A modern web browser (Chrome, Firefox, etc.)
 ## Installation
 Clone the repository:
    ```bash
-   git clone 
+   git clone https://github.com/zeusgodyt/FarmHub
